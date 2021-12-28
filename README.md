@@ -1,4 +1,5 @@
 # HW3
+## forked and pulled
 
 1- Date class’ına 4 adet extension yazılacak
 - .day parametresiyle gün bilgisini döndüren
@@ -13,4 +14,4 @@ extensionlar yazılması beklenmektedir.
 Ödevle ilgili anlaşılmayan yerleri gruptan sorarsak aynı soruların sorulmasını engellenmiş oluruz :)
 Bir sorun yaşadığınızda biz asistanlara yazmaya çekinmeyin :)
 
-push try
+
