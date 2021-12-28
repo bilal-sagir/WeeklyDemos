@@ -12,3 +12,5 @@ extensionlar yazılması beklenmektedir.
 Ödevin son tarihi önümüzdeki ders başlayana kadar.
 Ödevle ilgili anlaşılmayan yerleri gruptan sorarsak aynı soruların sorulmasını engellenmiş oluruz :)
 Bir sorun yaşadığınızda biz asistanlara yazmaya çekinmeyin :)
+
+push try
